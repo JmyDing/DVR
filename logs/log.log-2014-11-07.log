@@ -1,0 +1,427 @@
+2014-11-07 08:59:28 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 09:09:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 09:19:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 09:29:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 09:39:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 09:49:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 09:59:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 10:09:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 10:19:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 10:29:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 10:39:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 10:49:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 10:58:42 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107105929573</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 10:58:43 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107105929573</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>lcx</ChannelId><UserName>0</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 10:58:51 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107105929573</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 10:59:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 11:05:23 INFO  pool-1-thread-4 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107110611185</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 11:05:23 INFO  Thread-7 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107110611185</Time><Type>Media</Type><PlayOption>0</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>lcx</ChannelId><UserName>0</UserName><MediaIp></MediaIp><MediaPort></MediaPort></IPCP>
+2014-11-07 11:05:40 INFO  pool-1-thread-5 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107110611185</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 11:09:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 11:18:16 INFO  pool-1-thread-7 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107111903645</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 11:18:16 INFO  Thread-8 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107111903645</Time><Type>Media</Type><PlayOption>0</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>lcx</ChannelId><UserName>0</UserName><MediaIp></MediaIp><MediaPort></MediaPort></IPCP>
+2014-11-07 11:19:28 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 11:19:44 INFO  pool-1-thread-8 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107111903645</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 13:31:40 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 13:32:30 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107133318390</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 13:32:31 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107133318390</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>lcx</ChannelId><UserName>0</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 13:34:46 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107133318390</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 13:41:40 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 13:43:19 INFO  pool-1-thread-4 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107134406508</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 13:43:20 INFO  Thread-7 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107134406508</Time><Type>Media</Type><PlayOption>0</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>lcx</ChannelId><UserName>0</UserName><MediaIp></MediaIp><MediaPort></MediaPort></IPCP>
+2014-11-07 13:44:19 INFO  pool-1-thread-5 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107134406508</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 13:51:40 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 13:57:09 INFO  pool-1-thread-7 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107135756736</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 13:57:09 INFO  Thread-8 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107135756736</Time><Type>Media</Type><PlayOption>0</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>lcx</ChannelId><UserName>0</UserName><MediaIp></MediaIp><MediaPort></MediaPort></IPCP>
+2014-11-07 14:00:41 INFO  pool-1-thread-8 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107135756736</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:00:47 INFO  pool-1-thread-10 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107140134192</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:00:47 INFO  Thread-9 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107140134192</Time><Type>Media</Type><PlayOption>0</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>lcx</ChannelId><UserName>0</UserName><MediaIp></MediaIp><MediaPort></MediaPort></IPCP>
+2014-11-07 14:01:40 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 14:02:39 INFO  pool-1-thread-11 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107140134192</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:11:40 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 14:12:08 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 14:12:50 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107141338183</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:12:50 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107141338183</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>lcx</ChannelId><UserName>0</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 14:15:14 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107141338183</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:17:34 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 14:19:05 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107141953163</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:19:05 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107141953163</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>lcx</ChannelId><UserName>0</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 14:22:47 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107141953163</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:27:34 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 14:30:13 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 14:31:18 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107143205379</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:31:18 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107143205379</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>lcx</ChannelId><UserName>0</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 14:31:59 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107143205379</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:35:38 INFO  pool-1-thread-4 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107143626500</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:35:38 INFO  Thread-7 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107143626500</Time><Type>Media</Type><PlayOption>0</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp></MediaIp><MediaPort></MediaPort></IPCP>
+2014-11-07 14:36:51 INFO  pool-1-thread-5 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107143626500</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:38:07 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 14:39:05 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107143952838</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:39:05 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107143952838</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 14:42:42 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 14:42:53 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107143952838</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:43:11 INFO  pool-1-thread-3 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107144357939</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:43:11 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107144357939</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 14:44:41 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 14:44:53 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107144541803</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:44:54 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107144541803</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 14:45:54 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 14:48:39 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107144541803</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:49:04 INFO  pool-1-thread-3 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107144950768</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:49:04 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107144950768</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 14:50:13 INFO  pool-1-thread-4 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107144950768</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 14:50:13 INFO  Thread-4 (ReceiveServlet.java:66) - java.net.SocketException: socket closed
+2014-11-07 14:55:54 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 14:58:30 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 15:08:00 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107150847549</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:08:00 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107150847549</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 15:08:30 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 15:08:30 INFO  Timer-0 (ClearTime.java:34) - 定时器非法移除sendService=》lcx-LocalHost-b573a100407da148-20141107150847549
+2014-11-07 15:08:44 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107150847549</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:12:11 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 15:12:18 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107151305962</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:12:18 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107151305962</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 15:14:27 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107151305962</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:14:27 INFO  Thread-4 (ReceiveServlet.java:66) - java.net.SocketException: socket closed
+2014-11-07 15:14:56 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 15:15:22 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107151609614</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:15:22 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107151609614</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 15:20:38 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 15:20:45 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107152131971</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:20:45 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107152131971</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 15:25:38 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107152131971</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:30:38 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 15:40:38 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 15:40:59 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 15:43:49 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107154435815</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:43:49 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107154435815</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 15:44:17 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107154435815</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:44:17 INFO  Thread-4 (ReceiveServlet.java:77) - java.net.SocketException: socket closed
+2014-11-07 15:45:01 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 15:49:31 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107155018875</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:49:32 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107155018875</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 15:49:49 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107155018875</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:49:49 INFO  Thread-4 (ReceiveServlet.java:77) - java.net.SocketException: socket closed
+2014-11-07 15:53:09 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 15:58:40 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 15:59:39 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160026413</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:59:39 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107160026413</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 15:59:43 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160026413</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 15:59:43 INFO  Thread-4 (ReceiveServlet.java:77) - java.net.SocketException: socket closed
+2014-11-07 15:59:43 INFO  pool-1-thread-2 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160026413</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 16:07:14 INFO  pool-1-thread-3 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160802630</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:07:14 INFO  Thread-10 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107160802630</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 16:07:24 INFO  pool-1-thread-4 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160802630</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:07:24 INFO  Thread-8 (ReceiveServlet.java:77) - java.net.SocketException: socket closed
+2014-11-07 16:07:24 INFO  pool-1-thread-4 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160802630</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 16:07:59 INFO  pool-1-thread-5 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160845973</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:07:59 INFO  Thread-14 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107160845973</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 16:08:00 INFO  pool-1-thread-6 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160845973</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:08:00 INFO  Thread-12 (ReceiveServlet.java:77) - java.net.SocketException: socket closed
+2014-11-07 16:08:00 INFO  pool-1-thread-6 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160845973</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 16:08:31 INFO  pool-1-thread-7 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160918349</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:08:31 INFO  Thread-18 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107160918349</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 16:08:36 INFO  pool-1-thread-8 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160918349</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:08:36 INFO  Thread-16 (ReceiveServlet.java:77) - java.net.SocketException: socket closed
+2014-11-07 16:08:36 INFO  pool-1-thread-8 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107160918349</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 16:08:40 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 16:13:58 INFO  pool-1-thread-9 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107161445308</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:13:58 INFO  Thread-22 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107161445308</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 16:14:01 INFO  pool-1-thread-10 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107161445308</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:14:01 INFO  Thread-20 (ReceiveServlet.java:77) - java.net.SocketException: socket closed
+2014-11-07 16:14:01 INFO  pool-1-thread-10 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107161445308</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 16:18:00 INFO  pool-1-thread-11 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107161848376</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:18:00 INFO  Thread-26 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107161848376</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 16:18:04 INFO  pool-1-thread-12 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107161848376</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:18:04 INFO  pool-1-thread-12 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107161848376</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 16:18:04 INFO  Thread-24 (ReceiveServlet.java:77) - java.net.SocketException: socket closed
+2014-11-07 16:18:40 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 16:20:36 INFO  pool-1-thread-13 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107162124523</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:20:37 INFO  Thread-30 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107162124523</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 16:20:40 INFO  pool-1-thread-14 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107162124523</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:20:40 INFO  pool-1-thread-14 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107162124523</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 16:20:40 INFO  Thread-28 (ReceiveServlet.java:77) - java.net.SocketException: socket closed
+2014-11-07 16:23:51 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 16:24:11 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107162459233</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:24:11 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107162459233</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 16:29:58 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 16:30:23 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107163022915</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:30:29 INFO  pool-1-thread-3 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107163116330</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:30:30 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107163116330</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 16:30:33 INFO  pool-1-thread-4 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107163116330</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:30:33 INFO  Thread-4 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 16:30:33 INFO  pool-1-thread-4 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107163116330</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 16:33:52 INFO  pool-1-thread-5 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107163439828</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 16:33:52 INFO  Thread-10 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107163439828</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 16:41:43 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 16:51:43 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 17:00:20 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170108409</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:00:20 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107170108409</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:00:32 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170108409</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:00:32 INFO  Thread-4 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:00:32 INFO  pool-1-thread-2 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170108409</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:01:07 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 17:01:30 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170218737</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:01:31 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107170218737</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:03:48 INFO  main (StartUp.java:20) - 媒体服务器端口：30000
+2014-11-07 17:03:49 INFO  pool-1-thread-1 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170436535</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:03:49 INFO  Thread-6 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107170436535</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:04:04 INFO  pool-1-thread-2 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170436535</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:04:04 INFO  pool-1-thread-2 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170436535</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:04:04 INFO  Thread-4 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:05:09 INFO  pool-1-thread-3 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170555748</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:05:09 INFO  Thread-10 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107170555748</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:05:12 INFO  pool-1-thread-4 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170555748</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:05:12 INFO  Thread-8 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:05:12 INFO  pool-1-thread-4 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170555748</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:05:43 INFO  pool-1-thread-5 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170630445</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:05:43 INFO  Thread-14 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107170630445</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:05:45 INFO  pool-1-thread-6 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170630445</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:05:45 INFO  Thread-12 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:05:45 INFO  pool-1-thread-6 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170630445</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:06:05 INFO  pool-1-thread-7 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170653120</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:06:05 INFO  Thread-18 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107170653120</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:06:11 INFO  pool-1-thread-8 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170653120</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:06:11 INFO  Thread-16 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:06:11 INFO  pool-1-thread-8 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170653120</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:06:59 INFO  pool-1-thread-9 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170745999</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:06:59 INFO  Thread-22 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107170745999</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:07:12 INFO  pool-1-thread-10 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170745999</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:07:12 INFO  Thread-20 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:07:12 INFO  pool-1-thread-10 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107170745999</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:09:22 INFO  pool-1-thread-11 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171010587</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:09:22 INFO  Thread-26 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107171010587</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:09:32 INFO  pool-1-thread-12 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171010587</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:09:32 INFO  Thread-24 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:09:32 INFO  pool-1-thread-12 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171010587</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:10:05 INFO  pool-1-thread-13 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171053042</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:10:05 INFO  Thread-30 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107171053042</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:10:14 INFO  pool-1-thread-14 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171053042</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:10:14 INFO  pool-1-thread-14 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171053042</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:10:47 INFO  pool-1-thread-15 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171134181</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:10:47 INFO  Thread-34 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107171134181</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:10:57 INFO  pool-1-thread-16 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171134181</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:10:57 INFO  pool-1-thread-16 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171134181</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:12:31 INFO  pool-1-thread-17 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171319278</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:12:32 INFO  Thread-38 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107171319278</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:12:39 INFO  pool-1-thread-18 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171319278</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:12:39 INFO  pool-1-thread-18 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171319278</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:13:48 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 17:15:34 INFO  pool-1-thread-19 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171620517</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:15:34 INFO  Thread-42 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107171620517</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:15:48 INFO  pool-1-thread-20 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171620517</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:15:48 INFO  pool-1-thread-20 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171620517</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:15:48 INFO  Thread-40 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:17:36 INFO  pool-1-thread-21 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171823205</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:17:36 INFO  Thread-46 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107171823205</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:18:26 INFO  pool-1-thread-22 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171823205</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:18:26 INFO  pool-1-thread-22 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171823205</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:18:26 INFO  Thread-44 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:18:32 INFO  pool-1-thread-23 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>1</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171918789</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:18:32 INFO  Thread-50 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107171918789</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>1</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:18:38 INFO  pool-1-thread-24 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>1</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171918789</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:18:38 INFO  Thread-48 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:18:38 INFO  pool-1-thread-24 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>1</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171918789</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:18:45 INFO  pool-1-thread-25 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>2</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171930935</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:18:45 INFO  Thread-54 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107171930935</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>2</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:18:56 INFO  pool-1-thread-26 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>2</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171930935</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:19:00 INFO  pool-1-thread-26 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>2</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107171930935</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:19:56 INFO  pool-1-thread-27 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172043365</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:19:56 INFO  Thread-58 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107172043365</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:20:05 INFO  pool-1-thread-28 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172043365</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:20:05 INFO  pool-1-thread-28 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172043365</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:20:14 INFO  pool-1-thread-29 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172102380</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:20:14 INFO  Thread-62 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107172102380</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:20:19 INFO  pool-1-thread-30 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172102380</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:20:19 INFO  Thread-60 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:20:19 INFO  pool-1-thread-30 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172102380</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:20:32 INFO  pool-1-thread-31 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172120023</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:20:32 INFO  Thread-66 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107172120023</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>0</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:21:29 INFO  pool-1-thread-32 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172120023</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:21:29 INFO  Thread-64 (ReceiveServlet.java:81) - java.net.SocketException: socket closed
+2014-11-07 17:21:29 INFO  pool-1-thread-32 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>0</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172120023</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:21:34 INFO  pool-1-thread-33 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>1</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172222624</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:21:34 INFO  Thread-70 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107172222624</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>1</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:23:48 INFO  Timer-0 (ClearTime.java:15) - 执行定时器
+2014-11-07 17:24:37 INFO  pool-1-thread-34 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>1</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172222624</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:24:53 INFO  pool-1-thread-36 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>1</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172541166</Time><Type>MediaPlay</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:24:53 INFO  Thread-74 (HandleMessage.java:37) - 客户端服务器收到消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><Time>20141107172541166</Time><Type>Media</Type><PlayOption>1</PlayOption><DeviceName>LocalHost-b573a100407da148</DeviceName><ChannelId>1</ChannelId><UserName>lcx</UserName><MediaIp>192.168.1.64</MediaIp><MediaPort>30002</MediaPort></IPCP>
+2014-11-07 17:25:03 INFO  pool-1-thread-37 (PackageProcess.java:55) - 代理服务端收到的消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>1</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172541166</Time><Type>MediaBye</Type><UserName>lcx</UserName></IPCP>
+2014-11-07 17:25:08 INFO  pool-1-thread-37 (PackageProcess.java:225) - 发出消息=》<?xml version="1.0" encoding="UTF-8"?>
+<IPCP><ChannelId>1</ChannelId><DeviceName>LocalHost-b573a100407da148</DeviceName><Time>20141107172541166</Time><Type>MediaBye</Type><MsgNo></MsgNo><UserName>lcx</UserName><Msg>MediaBye delete client</Msg><Code>2</Code></IPCP>
+2014-11-07 17:25:31 INFO  Thread-69 (SocketParse.java:57) - 非法关闭端口！！
+2014-11-07 17:25:31 INFO  Thread-69 (SendServlet.java:66) - java.lang.NullPointerException

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/log4j-1.2.17.jar lib/dom4j-1.6.1.jar
+Main-Class: com.hzsun.www.mediaSelvet.StartUp
+                                           
